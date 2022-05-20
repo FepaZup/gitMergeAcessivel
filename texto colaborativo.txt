@@ -1,0 +1,9 @@
+DESCRIÇÃO
+
+O Git é um sistema de controle de revisão distribuído, rápido, escalável e com um conjunto de comandos incomumente rico que oferece operações de alto nível e acesso completo aos seus recursos.
+
+Para começar, consulte gittutorial[7] e depois giteveryday[7] para conhecer um conjunto mínimo de comandos uteis. Para uma introdução mais aprofundada acesse o Manual do Usuário do Git.
+
+Depois de dominar os conceitos básicos, é possível voltar para esta página para aprender quais os outros comandos o Git oferece. É possível aprender mais sobre os comandos individuais do Git com o comando "git help nome-do-comando". A página do manual gitcli[7] fornece uma visão geral da sintaxe de comandos da linha de comando.
+
+Uma cópia formatada e com hiperlink da documentação mais recente do Git pode ser visualizada em https://git.github.io/htmldocs/git.html ou https://git-scm.com/docs.
